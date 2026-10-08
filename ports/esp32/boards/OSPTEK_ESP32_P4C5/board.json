@@ -1,0 +1,22 @@
+{
+    "deploy": [
+        "../deploy.md"
+    ],
+    "deploy_options": {
+        "flash_offset": "0x2000"
+    },
+    "docs": "",
+    "features": [
+        "BLE",
+        "WiFi",
+        "External Flash",
+        "USB",
+        "USB-C"
+    ],
+    "images": [],
+    "mcu": "esp32p4",
+    "product": "OSPTEK ESP32-P4C5-Module Dev Board",
+    "thumbnail": "",
+    "url": "https://github.com/osptek/esp32-p4c5-module-dev-board",
+    "vendor": "OSPTEK"
+}
